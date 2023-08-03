@@ -1,4 +1,4 @@
-# A Novel Algorithm for Visceral and Somatic Adipose Abdominal Tissue Discrimination in MRI-based Segmentation: A Comparative Study of Otsu, K-means, and Fuzzy C-means Methods with In-depth Accuracy Analysis
+# Efficiency Analysis of MRI-based Segmentation: A Novel Algorithm for Discriminating Visceral and Somatic Abdominal Adipose Tissues for Otsu, K-means, and Fuzzy C-means Methods
 
 Authors: Mihai Octavian Negrea, Denisa Claudia Roman, [Darius Petelează](mailto:peteleaza.darius@gmail.com?subject=[GitHub]MRI-VAT-SAT-Segmentation), Minodora Teodoru, Raluca Costea, Ciprian Șofariu, Carmen Domnariu, Bogdan Neamtu
 
