@@ -2,8 +2,6 @@
 
 Authors: Mihai Octavian Negrea, Denisa Claudia Roman, [Darius Petelează](mailto:peteleaza.darius@gmail.com?subject=[GitHub]MRI-VAT-SAT-Segmentation), Minodora Teodoru, Raluca Costea, Ciprian Șofariu, Carmen Domnariu, Bogdan Neamtu
 
-If you wish to contact us regarding the paper, please use the above click-able email link to contact Mihai Octavian Negrea.
-
 If you wish to contact us regarding the code, please use the above click-able email link to contact Darius Petelează.
 
 The paper can be found at ... . 
@@ -40,6 +38,20 @@ To cite our paper please use one of the following citation formats:
 Simple citation
 ```
 
+### BibTeX
+
+```
+@article{article,
+author = {},
+year = {},
+month = {},
+pages = {},
+title = {},
+volume = {},
+journal = {},
+doi = {}
+}
+```
 
 ### RIS
 
@@ -61,19 +73,4 @@ UR  -
 DO  - 
 ID  - 
 ER  - 
-```
-
-### BibTeX
-
-```
-@article{article,
-author = {},
-year = {},
-month = {},
-pages = {},
-title = {},
-volume = {},
-journal = {},
-doi = {}
-}
 ```
