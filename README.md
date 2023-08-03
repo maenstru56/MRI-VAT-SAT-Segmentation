@@ -1,1 +1,1 @@
-# MRI-VAT-SAT-Segmentation
+# A Novel Algorithm for Visceral and Somatic Adipose Abdominal Tissue Discrimination in MRI-based Segmentation: A Comparative Study of Otsu, K-means, and Fuzzy C-means Methods with In-depth Accuracy Analysis
